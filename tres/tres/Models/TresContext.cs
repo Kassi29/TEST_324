@@ -31,7 +31,7 @@ public partial class TresContext : DbContext
     {
         modelBuilder.Entity<Cuentum>(entity =>
         {
-            entity.HasKey(e => e.Idcuenta).HasName("PK__cuenta__3F30264972A17FFE");
+            entity.HasKey(e => e.Idcuenta).HasName("PK__cuenta__3F3026494CF40F9C");
 
             entity.ToTable("cuenta");
 
@@ -39,7 +39,10 @@ public partial class TresContext : DbContext
             entity.Property(e => e.Departamento)
                 .HasMaxLength(100)
                 .HasColumnName("departamento");
-            entity.Property(e => e.FechaCreacion).HasColumnName("fecha_creacion");
+            entity.Property(e => e.Fecha)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("fecha");
             entity.Property(e => e.Idcliente).HasColumnName("idcliente");
             entity.Property(e => e.Saldo)
                 .HasColumnType("decimal(10, 2)")
@@ -51,7 +54,7 @@ public partial class TresContext : DbContext
             entity.HasOne(d => d.IdclienteNavigation).WithMany(p => p.Cuenta)
                 .HasForeignKey(d => d.Idcliente)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__cuenta__idclient__398D8EEE");
+                .HasConstraintName("FK__cuenta__idclient__4222D4EF");
         });
 
         modelBuilder.Entity<Persona>(entity =>
@@ -78,7 +81,7 @@ public partial class TresContext : DbContext
 
         modelBuilder.Entity<Transaccion>(entity =>
         {
-            entity.HasKey(e => e.Idtransaccion).HasName("PK__transacc__4EA33110E0120FCF");
+            entity.HasKey(e => e.Idtransaccion).HasName("PK__transacc__4EA33110E7C7F178");
 
             entity.ToTable("transaccion");
 
@@ -96,12 +99,12 @@ public partial class TresContext : DbContext
             entity.HasOne(d => d.CuentaDestinoNavigation).WithMany(p => p.TransaccionCuentaDestinoNavigations)
                 .HasForeignKey(d => d.CuentaDestino)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__transacci__cuent__3E52440B");
+                .HasConstraintName("FK__transacci__cuent__46E78A0C");
 
             entity.HasOne(d => d.CuentaOrigenNavigation).WithMany(p => p.TransaccionCuentaOrigenNavigations)
                 .HasForeignKey(d => d.CuentaOrigen)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__transacci__cuent__3D5E1FD2");
+                .HasConstraintName("FK__transacci__cuent__45F365D3");
         });
 
         OnModelCreatingPartial(modelBuilder);

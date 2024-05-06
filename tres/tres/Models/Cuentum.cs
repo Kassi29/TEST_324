@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace tres.Models;
@@ -12,7 +11,7 @@ public partial class Cuentum
 
     public decimal Saldo { get; set; }
 
-    public DateOnly FechaCreacion { get; set; }
+    public DateTime? Fecha { get; set; }
 
     public int Idcliente { get; set; }
 
@@ -23,8 +22,4 @@ public partial class Cuentum
     public virtual ICollection<Transaccion> TransaccionCuentaDestinoNavigations { get; set; } = new List<Transaccion>();
 
     public virtual ICollection<Transaccion> TransaccionCuentaOrigenNavigations { get; set; } = new List<Transaccion>();
-
-
-    
-
 }

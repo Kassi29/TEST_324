@@ -1,0 +1,10 @@
+K:\proyectos\proyectos\nueve\nueve\bin\Debug\nueve.exe.config
+K:\proyectos\proyectos\nueve\nueve\bin\Debug\nueve.exe
+K:\proyectos\proyectos\nueve\nueve\bin\Debug\nueve.pdb
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.csproj.AssemblyReference.cache
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.Form1.resources
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.Properties.Resources.resources
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.csproj.GenerateResource.cache
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.csproj.CoreCompileInputs.cache
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.exe
+K:\proyectos\proyectos\nueve\nueve\obj\Debug\nueve.pdb

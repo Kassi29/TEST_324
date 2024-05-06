@@ -26,26 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = K:\puedoVolverAEmpezar\TEST_324\tres\tres
 build_property._RazorSourceGeneratorDebug = 
 
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Cuentums/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnR1bXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Cuentums/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnR1bXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Cuentums/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnR1bXNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Cuentums/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnR1bXNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Cuentums/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnR1bXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -80,26 +60,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Transaccions/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25zXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Transaccions/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25zXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Transaccions/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25zXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Transaccions/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25zXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/Transaccions/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [K:/puedoVolverAEmpezar/TEST_324/tres/tres/Views/_ViewImports.cshtml]
