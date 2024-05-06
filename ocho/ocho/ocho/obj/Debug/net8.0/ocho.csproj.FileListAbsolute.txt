@@ -251,3 +251,8 @@ K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\runtimes\win\lib
 K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\Microsoft.OpenApi.dll
+K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\puedoVolverAEmpezar\TEST_324\ocho\ocho\ocho\obj\Debug\net8.0\ocho.MvcApplicationPartsAssemblyInfo.cs

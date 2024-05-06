@@ -17,9 +17,11 @@ namespace ocho.Controllers
         {
             _context = context;
         }
+ 
 
-        // GET: Personas
-        public async Task<IActionResult> Index()
+
+    // GET: Personas
+    public async Task<IActionResult> Index()
         {
             return View(await _context.Personas.ToListAsync());
         }
