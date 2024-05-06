@@ -1,0 +1,10 @@
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\bin\Debug\NUEVE.exe.config
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\bin\Debug\NUEVE.exe
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\bin\Debug\NUEVE.pdb
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.csproj.AssemblyReference.cache
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.Form1.resources
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.Properties.Resources.resources
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.csproj.GenerateResource.cache
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.csproj.CoreCompileInputs.cache
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.exe
+K:\puedoVolverAEmpezar\TEST_324\NUEVE2.0\NUEVE\obj\Debug\NUEVE.pdb
